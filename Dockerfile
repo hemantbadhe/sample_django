@@ -1,11 +1,10 @@
 
-FROM ubuntu
+FROM python:3
 
 RUN mkdir code
 
 WORKDIR code
 
-RUN apt-get update && apt-get install -y python-pip
 
 COPY requirements.txt requirements.txt
 
