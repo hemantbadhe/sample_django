@@ -1,0 +1,13 @@
+Django==2.1.2
+django-model-utils==3.2.0
+djangorestframework==3.10.3
+pbr==5.4.3
+pkg-resources==0.0.0
+PyMySQL==0.9.3
+pytz==2019.3
+six==1.13.0
+sqlparse==0.3.0
+stevedore==1.31.0
+virtualenv==16.7.7
+virtualenv-clone==0.5.3
+virtualenvwrapper==4.8.4
